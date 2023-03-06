@@ -18,4 +18,4 @@ Install python with matplotlib, sklearn and numpy libraries. Install ruby and ru
 
 ## Acknowledgments
 
-* This code is a follow-along from the Basic Artificial Intelligence course by Dung Lai Lap Trinh
+* This code is inspired by DeepLearning.AI and Stanford University through the material provided in the Machine Learning Specialization.
