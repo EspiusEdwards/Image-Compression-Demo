@@ -4,7 +4,7 @@ K-Means Algorithm application
 
 ## Getting Started
 
-Pull this repo on your local machine
+Pull this repo on your local machine and read the research about K-Means Algorithm 
 
 ### Prerequisites
 
